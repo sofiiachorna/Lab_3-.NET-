@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ULgwLvid4g8k9rNgpGAxWEjLBfRjW3XE3SxQ1OLRQFQp5yjTUOZaUY0Rz1GqO+KWWinQTzOD3oAsCnwDfPVI6A==",
+  "success": true,
+  "projectFilePath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\PresentationLayer\\PresentationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sophia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sophia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
