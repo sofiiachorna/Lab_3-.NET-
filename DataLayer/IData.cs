@@ -8,7 +8,7 @@ namespace DataLayer
 {
     public interface IData
     {
-        Dictionary<string, List<Dish>> breakfasts { get; }
+        Dictionary<string, List<Dish>> breakfasts { get;}
         List<Dish> EnglishBreakfastDishes { get; }
                
         List<Dish> FrenchBreakfastDishes { get;}

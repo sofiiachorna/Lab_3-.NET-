@@ -43,6 +43,7 @@ namespace PresentationLayer
                     string i = Console.ReadLine();
                     if(i == "yes")
                     {
+                        Console.WriteLine("Choose an ingredient:");
                         string ings = Console.ReadLine();
                         components.AddRange(ings.Split(", "));
 
@@ -58,7 +59,8 @@ namespace PresentationLayer
             {
                 director.createOrder(type);
             }
-            orderOutput.showOrder();
+            orderOutput.showOrder(director.getBuilder());
+
         }
         private void GetBuilder(int choice)
         {
@@ -66,7 +68,6 @@ namespace PresentationLayer
             {
                 case 1:
                     director.setBuilder(new BreakfastBuilder());
-
                     break;
                 case 2:
                     director.setBuilder(new LunchBuilder());

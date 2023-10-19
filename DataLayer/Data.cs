@@ -127,14 +127,14 @@ namespace DataLayer
         };
         public Dictionary<string, List<Dish>> dinners => new Dictionary<string, List<Dish>>
         {
-            {"Italian Dinner",
+            {"Italian dinner",
                 new List<Dish>
                 {
                     new Dish("Lasagna",new List<string>{"meat","cheese","sauce"}),
                     new Dish("Tiramisu",new List<string>{"coffe","biscuits","creme"})
                 } 
             },
-            {"French Dinner",
+            {"French dinner",
                 new List<Dish>
                 {
                     new Dish("Bouillabaisse",new List<string>{"fish","garlic"}),

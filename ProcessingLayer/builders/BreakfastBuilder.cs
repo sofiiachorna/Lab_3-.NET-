@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DataLayer;
+using Microsoft.Extensions.DependencyInjection;
 
 
 namespace ProcessingLayer.builders
@@ -12,21 +13,22 @@ namespace ProcessingLayer.builders
     public class BreakfastBuilder : IMealBuilder
     {
         private Breakfast breakfast;
-        private readonly IData data;
+        private IData data;
 
-        public BreakfastBuilder(IData data)
+        public BreakfastBuilder()
         {
             this.reset();
-            this.data = data;
         }
-        public BreakfastBuilder() 
+
+        public void setData(IData data)
         {
-            this.reset();
+            this.data = data;
         }
 
         public void addMealType(string type)
         {
-            this.breakfast.Add(data.breakfasts[type]);
+            var dict = data.breakfasts;
+            this.breakfast.AddList(dict[type]);
         }
         public void addDish(string type,string dishName)
         {

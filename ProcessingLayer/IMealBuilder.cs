@@ -11,9 +11,11 @@ namespace ProcessingLayer
     public interface IMealBuilder
     {
         void reset();
+        void setData(IData data);
         void addMealType(string type);
         void addDish(string type,string dishName);
         void addIngredient(string dish, List<string> ingredient);
         Order getResult();
+
     }
 }

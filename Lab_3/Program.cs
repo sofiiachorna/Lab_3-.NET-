@@ -2,6 +2,8 @@
 using DataLayer;
 using ProcessingLayer;
 using PresentationLayer;
+using ProcessingLayer.builders;
+using System.Text;
 
 namespace Lab_3
 {
@@ -9,11 +11,13 @@ namespace Lab_3
     {
         static void Main(string[] args) 
         {
+            Console.OutputEncoding = Encoding.UTF8;
+
             var services = new ServiceCollection();
             services.AddSingleton<IData, Data>();
             services.AddSingleton<IDataManager,DataManager>();
-            services.AddTransient<IShowData,ShowData>();
             services.AddSingleton<IDirector,Director>();
+            services.AddTransient<IShowData,ShowData>();
             services.AddTransient<IUserInput,UserInput>();
             services.AddTransient<IOrderOutput,OrderOutput>();
 

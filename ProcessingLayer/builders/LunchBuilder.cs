@@ -1,4 +1,5 @@
 ﻿using DataLayer;
+using Microsoft.Extensions.DependencyInjection;
 using ProcessingLayer.products;
 using System;
 using System.Collections.Generic;
@@ -11,18 +12,16 @@ namespace ProcessingLayer
     public class LunchBuilder : IMealBuilder
     {
         private Lunch lunch;
-        private readonly IData data;
+        private IData data;
 
-        public LunchBuilder(IData data)
-        {
+        public LunchBuilder() 
+        { 
             this.reset();
-            this.data = data;
         }
-        public LunchBuilder() { }
 
         public void addMealType(string type)
         {
-            this.lunch.Add(data.lunches[type]);
+            this.lunch.AddList(data.lunches[type]);
         }
         public void addDish(string type, string dishName)
         {
@@ -51,5 +50,10 @@ namespace ProcessingLayer
             this.lunch = new Lunch();
         }
         public Order getResult() => this.lunch;
+
+        public void setData(IData data)
+        {
+            this.data = data;
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\PresentationLayer\\PresentationLayer.csproj": {}
+    "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\PresentationLayer\\PresentationLayer.csproj": {}
   },
   "projects": {
-    "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\DataLayer\\DataLayer.csproj": {
+    "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\DataLayer\\DataLayer.csproj",
+        "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\Sophia\\.nuget\\packages\\",
-        "outputPath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\DataLayer\\obj\\",
+        "outputPath": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\PresentationLayer\\PresentationLayer.csproj": {
+    "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\PresentationLayer\\PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\PresentationLayer\\PresentationLayer.csproj",
+        "projectUniqueName": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\PresentationLayer\\PresentationLayer.csproj",
         "projectName": "PresentationLayer",
-        "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\PresentationLayer\\PresentationLayer.csproj",
+        "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\PresentationLayer\\PresentationLayer.csproj",
         "packagesPath": "C:\\Users\\Sophia\\.nuget\\packages\\",
-        "outputPath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\PresentationLayer\\obj\\",
+        "outputPath": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\PresentationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj": {
-                "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj"
+              "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj": {
+                "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj": {
+    "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj",
+        "projectUniqueName": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj",
         "projectName": "ProcessingLayer",
-        "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj",
+        "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj",
         "packagesPath": "C:\\Users\\Sophia\\.nuget\\packages\\",
-        "outputPath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\ProcessingLayer\\obj\\",
+        "outputPath": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\ProcessingLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,8 +166,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\DataLayer\\DataLayer.csproj"
+              "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\DataLayer\\DataLayer.csproj"
               }
             }
           }

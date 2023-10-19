@@ -15,3 +15,37 @@ D:\kpi\2 KURS\.NET labs\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLay
 D:\kpi\2 KURS\.NET labs\Lab_3\PresentationLayer\obj\Debug\net6.0\refint\PresentationLayer.dll
 D:\kpi\2 KURS\.NET labs\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.pdb
 D:\kpi\2 KURS\.NET labs\Lab_3\PresentationLayer\obj\Debug\net6.0\ref\PresentationLayer.dll
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\PresentationLayer.deps.json
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\PresentationLayer.dll
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\PresentationLayer.pdb
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\ProcessingLayer.dll
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\ProcessingLayer.pdb
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.AssemblyInfo.cs
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.csproj.CopyComplete
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.dll
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\refint\PresentationLayer.dll
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.pdb
+C:\Users\HP\Downloads\Lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\ref\PresentationLayer.dll
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\PresentationLayer.deps.json
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\PresentationLayer.dll
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\PresentationLayer.pdb
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\DataLayer.dll
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\ProcessingLayer.dll
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\ProcessingLayer.pdb
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.csproj.AssemblyReference.cache
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.AssemblyInfoInputs.cache
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.AssemblyInfo.cs
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.csproj.CopyComplete
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.dll
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\refint\PresentationLayer.dll
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\PresentationLayer.pdb
+D:\kpi\2 KURS\.NET labs\final lab_3\Lab_3\PresentationLayer\obj\Debug\net6.0\ref\PresentationLayer.dll

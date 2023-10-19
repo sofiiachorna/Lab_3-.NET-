@@ -21,11 +21,11 @@ namespace DataLayer
         }
         public void addIngredient(List<string> Ingredients)
         {
-            Ingredients.AddRange(Ingredients);
+            this.Ingredients.AddRange(Ingredients);
         }
         public override string ToString() 
         {
-            return $"Назва страви: {Name}, інгредієнти: {Ingredients.Select(x => x).ToString()}";
+            return $"Назва страви: {Name}, інгредієнти: {string.Join(", ", Ingredients)}";
         }
         public bool Equals(Dish dish)
         {

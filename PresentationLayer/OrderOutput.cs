@@ -9,13 +9,10 @@ namespace PresentationLayer
 {
     public class OrderOutput : IOrderOutput
     {
-        private readonly IMealBuilder mealBuilder;
-
-        public void showOrder()
+        public void showOrder(IMealBuilder builder)
         {
             Console.WriteLine("Your final order:");
-            Console.WriteLine(mealBuilder.getResult());
-
+            Console.WriteLine(builder.getResult());
         }
     }
 }

@@ -9,10 +9,10 @@ namespace ProcessingLayer.products
 {
     public class Order 
     {
-        public List<Dish> dishes { get; }
+        public List<Dish> dishes { get; protected set; }
         public void Add(Dish dish)
         { dishes.Add(dish); }
-        public void Add(List<Dish> dishes)
-        { dishes.AddRange(dishes); }
+        public void AddList(List<Dish> dishes)
+        { this.dishes.AddRange(dishes); }
     }
 }

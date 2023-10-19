@@ -9,5 +9,13 @@ namespace ProcessingLayer.products
 {
     public  class Breakfast : Order
     {
+        public Breakfast() 
+        {
+            dishes = new List<Dish>();
+        }
+        public override string ToString()
+        {
+            return $"Сніданок:\n{string.Join(" \n", dishes)}";
+        }
     }
 }

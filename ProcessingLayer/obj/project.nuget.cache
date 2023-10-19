@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e+zbh8emKjnXjidGAXJjdWVMVjgQq5ktJOUqpV3x/5x+nwX8R7nH9owHStMM+0tsa0ZsOXfOdZPS1l3YbaYaNg==",
+  "dgSpecHash": "M0rTKAiI8ltP9ZllrXTODGyFMBQmDU3TVyl3Y2497uRqcDktyf29F4eOhYyzoKKkQJgo6SN+n//srsCCbPl2ug==",
   "success": true,
-  "projectFilePath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj",
+  "projectFilePath": "D:\\kpi\\2 KURS\\.NET labs\\final lab_3\\Lab_3\\ProcessingLayer\\ProcessingLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sophia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Sophia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"

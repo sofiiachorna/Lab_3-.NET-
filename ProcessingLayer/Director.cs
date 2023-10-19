@@ -10,9 +10,22 @@ namespace ProcessingLayer
     public class Director : IDirector
     {
         private IMealBuilder _mealBuilder;
+        private readonly IData data;
+
+        public Director(IData data)
+        {
+            this.data = data;
+        }
+
         public void setBuilder(IMealBuilder builder)
         {
             this._mealBuilder = builder;
+            _mealBuilder.setData(data);
+        }
+
+        public IMealBuilder getBuilder()
+        {
+            return _mealBuilder;
         }
         public void createOrder(string type)
         {
